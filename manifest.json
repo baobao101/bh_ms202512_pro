@@ -7,7 +7,7 @@
     "short_name": "Bible Hangman",
     "start_url": "https://baobao101.github.io/bh_ms202512_pro/index.html",
     "theme_color": "#ffffff",
-    "id": "9NR0CSF2K1FK",
+    "id": "9PBCMCN14D5M",
     "description": "Play the classic Hangman word game while testing your knowledge of the Bible. Words come from the bible, which means a lot of religious words but also some common words from the English language. Ask for hints when needed! No ad and no timer to distract you while you enjoy learning the bible all over again, if you forgot it over the years. Have fun playing Bible Hangman! The pro version gives you 900 more points and over 7000 more words to play compared to the free version.",
     "lang": "en",
     "categories": [
@@ -41,3 +41,4 @@
         }
     ],
 }
+
